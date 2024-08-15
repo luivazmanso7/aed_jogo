@@ -1,6 +1,4 @@
 jogo educativo feito por alunos da Cesar school utilizando lista encadeada.
-Aqui está um exemplo de um README para o seu jogo "Descubra o Animal":
-
 ---
 
 # Descubra o Animal
